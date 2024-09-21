@@ -1,0 +1,41 @@
+[32m
+=== Profile Data ===
+Username: grantsoft404
+Full_name: Buğra
+Bio: Web dev.
+@bugrao13
+Profile_picture: https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/453127798_498301252680096_8561341079602060684_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=100&_nc_ohc=eLc2RZthjoIQ7kNvgH7h2Rt&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYDVvfRFV5R0eDQHV4CfkxtSH3hTDwdN-wsSNo51BfgVng&oe=66F49B46&_nc_sid=8b3546
+Followers: 3
+Following: 9
+Posts: 2
+
+[32m
+=== Profile Data ===
+Username: facebook
+Full_name: Facebook
+Bio: We believe people can do more together than alone and that each of us plays an important role in helping to create this safe and respectful community.
+Profile_picture: https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/380862479_740714797863189_7216153751797791069_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=1&_nc_ohc=qkgQUI6LwjYQ7kNvgEifrQI&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYCbxX1JXSck7O1WDuJKuk7fwjsCdLNxafdvz3aIXxLMGQ&oe=66F4756F&_nc_sid=8b3546
+Followers: 5583751
+Following: 28
+Posts: 1247
+
+[32m
+=== Profile Data ===
+Username: instagram
+Full_name: Instagram
+Bio: Discover what's new on Instagram 🔎✨
+Profile_picture: https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/281440578_1088265838702675_6233856337905829714_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=1&_nc_ohc=K-JMSK9tyPoQ7kNvgH3Ne-h&_nc_gid=c0bb95a2e82b432fa1c91b330cd0c917&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYAK5xUWxOH1LWcYVAqV_k377qbz6tBHTp5XZeXWoCte6g&oe=66F48B98&_nc_sid=8b3546
+Followers: 676533138
+Following: 145
+Posts: 7817
+
+[32m
+=== Profile Data ===
+Username: youtube
+Full_name: YouTube
+Bio: like and subscribe.
+Profile_picture: https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/238849795_527091725187967_6319361464810257620_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=1&_nc_ohc=jXmbNgT8yfgQ7kNvgEQ0T8H&_nc_gid=0e523be3248d4bd5aa539dd6aa957359&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYDsAwDvC86U8f8bAODNc3A6lqPWiRVreH3cgvC2sezxvQ&oe=66F489D3&_nc_sid=8b3546
+Followers: 31197520
+Following: 1758
+Posts: 5214
+
