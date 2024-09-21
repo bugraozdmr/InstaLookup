@@ -1,6 +1,6 @@
 <p align=center>
   <br>
-  <a href="https://github.com/bugraozdmr/Arsen/blob/main/Arsen/images/sample-2.png" target="_blank"><img src="https://raw.githubusercontent.com/bugraozdmr/Arsen/main/Arsen/images/sample-2.png"/></a>
+  <a href="https://github.com/bugraozdmr/InstaLookup/blob/main/InstaLookup/images/sample-2.png" target="_blank"><img src="https://raw.githubusercontent.com/bugraozdmr/InstaLookup/main/InstaLookup/images/sample-2.png"/></a>
   <br>
   <span>Search instagram users without logging in</span>
   <br>
@@ -15,7 +15,7 @@
 # clone the repo
 $ git clone https://github.com/bugraozdmr/InstaLookup.git
 
-# change the working directory to Arsen
+# change the working directory to InstaLookup
 $ cd InstaLookup
 
 # install packages
